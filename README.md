@@ -15,7 +15,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://jongita.github.io/Live-Video/
 
-Design: [Live Video] (https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media)
+Design: [Live Video] https://dribbble.com/shots/4957408-Live-video-illustration/attachments/1111394?mode=media
 
 ## 🎯 Project features/goals
 
