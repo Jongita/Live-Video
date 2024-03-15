@@ -47,7 +47,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/Jongita/UFO.git
+    git clone https://jongita.github.io/Live-Video/
     ```
 2. Install NPM packages
     ```sh
