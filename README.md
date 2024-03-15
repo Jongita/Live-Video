@@ -20,7 +20,7 @@ Design: [Live Video] https://dribbble.com/shots/4957408-Live-video-illustration/
 ## 🎯 Project features/goals
 
 -   Github pages
--   NO responsive design
+-   Responsive design
 -   favicon
 -   fontAwesom icons
 -   css `display:flex`
